@@ -43,7 +43,7 @@ In a diagonal concatenation you combine all of the row and columns from a list o
 
 Diagonal concatenation generates nulls when the column names do not overlap.
 
-When the dataframe shapes do not match and we have an overlapping semantic key then [we can join the dataframes](joins.md) instead of concatenating them.
+When the dataframe shapes do not match and we have an overlapping semantic key then [we can join the dataframes](./joins.md) instead of concatenating them.
 
 ## Rechunking
 

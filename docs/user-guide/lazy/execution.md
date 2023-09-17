@@ -47,7 +47,7 @@ If your data requires more memory than you have available Polars may be able to 
 
 {{code_block('user-guide/lazy/execution','stream',['scan_csv','collect'])}}
 
-We look at [streaming in more detail here](streaming.md).
+We look at [streaming in more detail here](./streaming.md).
 
 ### Execution on a partial dataset
 
